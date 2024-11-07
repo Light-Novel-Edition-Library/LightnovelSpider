@@ -1,3 +1,9 @@
 img
 proxy
 *.db
+lightnovel
+*.exe
+wenku8.ini
+test.py
+README.md
+scrapy.cfg
